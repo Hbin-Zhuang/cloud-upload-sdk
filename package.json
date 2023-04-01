@@ -1,0 +1,25 @@
+{
+  "name": "cloud-upload-sdk",
+  "version": "1.0.0",
+  "description": "附件上传OSS对象存储，支持阿里云/腾讯云/华为云",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hbin-Zhuang/cloud-upload-sdk.git"
+  },
+  "keywords": [
+    "['OSS'",
+    "'upload'",
+    "'文件上传'",
+    "'对象存储']"
+  ],
+  "author": "hbin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hbin-Zhuang/cloud-upload-sdk/issues"
+  },
+  "homepage": "https://github.com/Hbin-Zhuang/cloud-upload-sdk#readme"
+}
